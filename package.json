@@ -1,5 +1,5 @@
 {
-  "name": "remove.bg",
+  "name": "remove.bg-updated",
   "version": "1.3.0",
   "description": "A simple but effective wrapper for the remove.bg API",
   "main": "dist/index.js",
@@ -30,8 +30,8 @@
   },
   "homepage": "https://github.com/EddyVerbruggen/remove.bg#readme",
   "dependencies": {
-    "request": "^2.88.0",
-    "unirest": "~0.6.0"
+    "request": "^2.88.2",
+    "unirest": "^0.6.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",

@@ -1,16 +1,6 @@
-# [remove.bg](https://www.remove.bg) API wrapper for Node.js
+# [remove.bg](https://www.remove.bg) API wrapper for Node.js(Updated)
+Original Version: https://www.npmjs.com/package/remove.bg
 
-[![NPM version][npm-image]][npm-url]
-[![Downloads][downloads-image]][npm-url]
-[![Twitter Follow][twitter-image]][twitter-url]
-
-[npm-image]:http://img.shields.io/npm/v/remove.bg.svg
-[npm-url]:https://npmjs.org/package/remove.bg
-[downloads-image]:http://img.shields.io/npm/dm/remove.bg.svg
-[twitter-image]:https://img.shields.io/twitter/follow/eddyverbruggen.svg?style=social&label=Follow%20me
-[twitter-url]:https://twitter.com/eddyverbruggen
-
-<img src="https://github.com/EddyVerbruggen/remove.bg/raw/master/media/remove.bg.promo.jpg" width="600px" height="400px" />
 
 The **AWESOME** remove.bg API is quite easy to use, but it can always be easier - that's where this package comes in.
 
@@ -21,7 +11,7 @@ At the moment it's early access, so it may take some time to get yours.
 ## Installation
 
 ```bash
-npm i remove.bg
+npm i remove.bg-updated
 ```
 
 ## Examples
